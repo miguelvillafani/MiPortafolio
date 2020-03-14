@@ -1,0 +1,38 @@
+.navbar a {
+  font-family: "Titillium Web", sans-serif;
+}
+/*Carousel Principal*/
+
+/*nombre y subtitulo*/
+.carousel .nameincarousel{
+    text-decoration: none;
+    font-size: 110px;
+    font-weight: 600;
+    font-family: 'Baloo Paaji 2', cursive;
+    color: #2A2C3D;
+
+}
+.carousel .describecarousel{
+    text-decoration: none;
+    font-size: 65px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+    color: #2A2C3D;
+    margin-bottom: 2rem;
+
+}
+
+/*Estilo Boton Carousel*/
+.carousel .boton_carousel{
+    text-decoration: none;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #37417D;
+  }
+  .carousel .boton_carousel:hover{
+    color: #ffffff;
+    background-color: #2A2C3D;
+  }
+  /*Fin Carousel Principal*/
