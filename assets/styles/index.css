@@ -36,3 +36,13 @@
     background-color: #2A2C3D;
   }
   /*Fin Carousel Principal*/
+
+  /*Carousel*/
+
+  body div h2 {
+    text-decoration: none;
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
